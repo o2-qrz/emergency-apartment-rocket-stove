@@ -2,7 +2,13 @@ markdown
 
 # DIY 1500W Window Rocket Stove (Emergency Apartment Co-Axial Gasifier) An open-source, ultra-low-signature, top-down pyrolysis rocket stove designed for safe, zero-smoke indoor space heating during catastrophic central grid collapses. This system bypasses CNC machining and welding, utilizing an industrial component hijack of off-the-shelf hardware store pipes and manual hand tools. --- ## 🚀 1. System Overview & Core Specifications The **Window Rocket Stove** operates as a zero-smoke, gravity-fed, down-draft biomass pellet and briquette gasifier. By decoupling the thermal radiation zone (indoor) from the exhaust emission vector (outdoor) via a specialized window-shroud interface, it delivers stable long-wave infrared heat while completely isolating the living space from combustion products. | Parameter | Specification | | :--- | :--- | | **Thermal Output** | Stable 1500 Watts (1.5 kW) | | **Fuel Burn Rate** | ~370 grams/hour (Compressed Biomass / Pini-Kay) | | **Autonomous Runtime** | 10+ hours per 4 kg single vertical fuel stack | | **Internal Combustion Temp** | +1000°C (Core Pyrolysis Zone) | | **Outer Casing Temp** | Stable +220°C (Long-wave IR Radiator Zone) | | **Window Frame Interface Temp**| < +40°C (Safe for standard PVC frames) | | **Operational Weight** | < 12 kg (Excluding structural brick foundation) | --- ## 📐 2. Co-Axial "Matryoshka" Architecture & Dimensional Tolerances The core assembly features a 3-layer concentric cylinder design ("Matryoshka" setup) that optimizes cross-flow secondary air injection while establishing a dense thermal buffer. 
 
-Используйте код с осторожностью.
+******
+
+
+<img src="www38.png" width="100%"> 
+
+
+******
 
 [Exhaust Gas Out]
 ▲
